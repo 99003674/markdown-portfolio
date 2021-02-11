@@ -1,2 +1,2 @@
-.Playstation
-.food
+-Playstation
+-food
