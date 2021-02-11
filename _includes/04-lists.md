@@ -1,3 +1,2 @@
-*Playstation
-*Food
-*Volleyball
+- item *Playstation *Food
+- item *Volleyball
